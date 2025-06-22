@@ -1,12 +1,55 @@
+<div align="center">
+  <h1>Hi, I'm Likith 👋</h1>
+  <p><strong>Full-Stack Developer | Learning by Building</strong></p>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/likith-kg) 
+<hr/>
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KGLikith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KGLikith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGLikith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<h2>⚙️ Tech Stack</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=KGLikith&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>📦 Languages & Core</h3>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+</p>
+
+<h3>🧰 Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=flat&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-%238B5CF6.svg?style=flat" />
+</p>
+
+<h3>💾 Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
+</p>
+
+### ☁️ DevOps / Tools  
+![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-%23000000.svg?style=flat&logo=websocket&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-%23009639.svg?style=flat&logo=webrtc&logoColor=white)
+![Clerk Auth](https://img.shields.io/badge/Clerk-%230070B8.svg?style=flat&logo=clerk&logoColor=white)
+
+
+<hr/>
+
+<h2>📫 Let's Connect</h2>
+<p>
+  <a href="https://linkedin.com/in/likith-kg">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
