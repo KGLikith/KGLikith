@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=flat&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=flat&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-%238B5CF6.svg?style=flat" />
 </p>
 
 <h3>💾 Databases</h3>
