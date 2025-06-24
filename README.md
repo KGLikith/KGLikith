@@ -40,9 +40,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-%23000000.svg?style=flat&logo=websocket&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-%23009639.svg?style=flat&logo=webrtc&logoColor=white)
-![Clerk Auth](https://img.shields.io/badge/Clerk-%230070B8.svg?style=flat&logo=clerk&logoColor=white)
 
 
 <hr/>
