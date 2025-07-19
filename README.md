@@ -43,9 +43,3 @@
 
 <hr/>
 
-<h2>📫 Let's Connect</h2>
-<p>
-  <a href="https://linkedin.com/in/likith-kg">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
